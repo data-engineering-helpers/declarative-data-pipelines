@@ -40,7 +40,7 @@ these companies.
 
 ### Data Engineering helpers
 
-* [Data Engineering Helpers - Knowledge Sharing - Declarative data pipelines (this Git repository)](https://github.com/data-engineering-helpers/declarative-data-pipelines/)
+* [Data Engineering Helpers - Knowledge Sharing - Cheat sheet - Databricks AI Dev Kit](https://github.com/data-engineering-helpers/ks-cheat-sheets/tree/main/ai/databricks-ai-dev-kit)
 * [Data Engineering Helpers - Knowledge Sharing - AI Skills](https://github.com/data-engineering-helpers/ks-cheat-sheets/blob/main/ai/rules-skills/)
 * [Data Engineering Helpers - Knowledge Sharing - JavaScript (JS) world](https://github.com/data-engineering-helpers/ks-cheat-sheets/blob/main/programming/js-world/)
 
@@ -62,6 +62,7 @@ these companies.
 ### Databricks declarative development
 
 * [GitHub - Databricks Solutions - AI Dev Kit](https://github.com/databricks-solutions/ai-dev-kit)
+* [Data Engineering Helpers - Knowledge Sharing - Cheat sheet - Databricks AI Dev Kit](https://github.com/data-engineering-helpers/ks-cheat-sheets/tree/main/ai/databricks-ai-dev-kit)
 * [Spark Declarative Pipelines (SDP)](https://spark.apache.org/docs/latest/declarative-pipelines-programming-guide.html)
   * [Databricks Lakeflow Declarative Pipelines (LDP)](https://docs.databricks.com/aws/en/ldp/)
 * [Databricks Asset Bundles (DAB)](https://docs.databricks.com/aws/en/dev-tools/bundles/)
