@@ -67,6 +67,17 @@ these companies.
   * [Databricks Lakeflow Declarative Pipelines (LDP)](https://docs.databricks.com/aws/en/ldp/)
 * [Databricks Asset Bundles (DAB)](https://docs.databricks.com/aws/en/dev-tools/bundles/)
 
+### Deploy ETLs using Lakeflow Declarative Pipelines
+
+* Title: Deploy streaming incremental and batch processing ETLs using Lakeflow Declarative Pipelines
+  in Databricks Lakehouse Medallion Architecture with agentic AI support
+* Date: Apr. 2026
+* Author: Mikołaj Sędek
+  ([Mikołaj Sędek on LinkedIn](https://www.linkedin.com/in/mikolajsedek/),
+  [Mikołaj Sędek on Medium](https://medium.com/@mikoajsdek))
+* [LinkedIn post](https://www.linkedin.com/posts/mikolajsedek_deploy-streaming-incremental-and-batch-processing-activity-7449383500136271873-OfrG/)
+* [GitHub - Lakeflow Declarative Pipelines in Databrick Free Edition](https://github.com/MikolajSedek/lakeflow_declarative_pipelines_demo)
+
 ### Lakehouse Plumber
 
 * Overview:
