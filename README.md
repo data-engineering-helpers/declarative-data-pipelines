@@ -11,6 +11,8 @@
   * [Articles and projects of interest](#articles-and-projects-of-interest)
     * [Spec\-driven development (SDD)](#spec-driven-development-sdd)
     * [Databricks declarative development](#databricks-declarative-development)
+    * [Deploy ETLs using Lakeflow Declarative Pipelines](#deploy-etls-using-lakeflow-declarative-pipelines)
+    * [Spec\-driven workflow](#spec-driven-workflow)
     * [Lakehouse Plumber](#lakehouse-plumber)
     * [Metadata\-Driven Lakehouse Ingestion](#metadata-driven-lakehouse-ingestion)
 
@@ -78,7 +80,8 @@ these companies.
 
 ### Deploy ETLs using Lakeflow Declarative Pipelines
 
-* Title: Deploy streaming incremental and batch processing ETLs using Lakeflow Declarative Pipelines
+* Title: Deploy streaming incremental and batch processing ETLs using
+  Lakeflow Declarative Pipelines
   in Databricks Lakehouse Medallion Architecture with agentic AI support
 * Date: Apr. 2026
 * Author: Mikołaj Sędek
@@ -86,6 +89,16 @@ these companies.
   [Mikołaj Sędek on Medium](https://medium.com/@mikoajsdek))
 * [LinkedIn post](https://www.linkedin.com/posts/mikolajsedek_deploy-streaming-incremental-and-batch-processing-activity-7449383500136271873-OfrG/)
 * [GitHub - Lakeflow Declarative Pipelines in Databrick Free Edition](https://github.com/MikolajSedek/lakeflow_declarative_pipelines_demo)
+
+### Spec-driven workflow
+
+* Title: Spec-Driven Development: A Practical Guide for Software and
+  Data Engineering Teams
+* Date: May 2026
+* Author: Sanjeeb Panda
+  ([Sanjeeb Panda on LinkedIn](https://www.linkedin.com/in/sanjeeb-panda-848a7333/),
+  [Sanjeeb Panda on Medium](https://medium.com/@sanjeebmeister))
+* [Medium - Spec-Driven Development: A Practical Guide for Software & Data Engineering Teams](https://medium.com/@sanjeebmeister/spec-driven-development-a-practical-guide-for-software-data-engineering-teams-b6ea7108b67e)
 
 ### Lakehouse Plumber
 
